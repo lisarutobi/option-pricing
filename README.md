@@ -1,6 +1,6 @@
-## **C++ for Option Pricing**
+**C++ for Option Pricing**
 
-##Project Overview
+## Project Overview
 This project implements various financial models for pricing European and American options using C++. It covers fundamental and advanced methodologies, ensuring efficient and accurate computation of option prices. The key focus areas include:
 
 ## **Black-Scholes Model**
